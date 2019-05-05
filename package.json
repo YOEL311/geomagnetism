@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/naturalatlas/geomagnetism/issues"
   },
-  "homepage": "https://github.com/naturalatlas/geomagnetism"
+  "homepage": "https://github.com/naturalatlas/geomagnetism",
+  "dependencies": {
+    "graceful-fs": "^4.1.15"
+  }
 }

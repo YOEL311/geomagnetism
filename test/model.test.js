@@ -1,6 +1,6 @@
 var geomagnetism = require('../index.js');
 var assert = require('chai').assert;
-var fs = require('fs');
+var fs = require('graceful-fs');
 
 var tolerances = {
 	incl: 0.01, //deg
