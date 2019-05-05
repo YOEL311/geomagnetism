@@ -1,6 +1,5 @@
 var geomagnetism = require('../index.js');
 var assert = require('chai').assert;
-var path = require('path');
 var fs = require('fs');
 
 var tolerances = {
