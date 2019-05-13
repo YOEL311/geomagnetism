@@ -1,4 +1,4 @@
-# geomagnetism
+# geomagnetism fork for Expo projects
 [![NPM version](http://img.shields.io/npm/v/geomagnetism.svg?style=flat)](https://www.npmjs.org/package/geomagnetism)
 [![Build Status](http://img.shields.io/travis/naturalatlas/geomagnetism/master.svg?style=flat)](https://travis-ci.org/naturalatlas/geomagnetism)
 [![Coverage Status](http://img.shields.io/coveralls/naturalatlas/geomagnetism/master.svg?style=flat)](https://coveralls.io/r/naturalatlas/geomagnetism)
