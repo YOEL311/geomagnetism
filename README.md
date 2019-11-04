@@ -6,7 +6,8 @@
 Get magnetic declination for given time and place. It's an adaptation of the [World Magnetic Model](http://www.ngdc.noaa.gov/geomag/WMM/DoDWMM.shtml) by the [NOAA National Geophysical Data Center](https://www.ngdc.noaa.gov/).
 
 ``` sh
-$ npm install geomagnetism --save
+$ npm install https://github.com/yelabbassi/geomagnetism.git --save
+
 ```
 
 ### Usage
